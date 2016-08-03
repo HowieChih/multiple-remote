@@ -1,0 +1,3 @@
+###### git remote add origin https://...
+###### git fetch origin
+###### git merge origin/master
